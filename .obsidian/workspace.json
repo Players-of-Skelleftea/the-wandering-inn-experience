@@ -8,115 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16a4198a6edda2ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life Wandering Inn Expeience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb7df7b7b067a544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life Wandering Inn Expeience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3ff80f762adc7a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life Wandering Inn Expeience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "345df6bc3e73bb5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life Wandering Inn Expeience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "889d0f4bf6c5f46e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life Wandering Inn Expeience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a72cb912cd8fb287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Races/Antinium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b706433c95b507f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life Wandering Inn Expeience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07ed1914305c5837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/The Wandering Inn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c0af35f06a5536f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Bird.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c60dca7cb421e76b",
+            "id": "cfc189972ed228fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02fff71e1c50e781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Real Life Wandering Inn Experience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23ac63d70c9883d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Real Life Wandering Inn Experience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bird.md",
+                "file": "Real Life Wandering Inn Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bird.md",
+                "file": "Real Life Wandering Inn Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bird.md"
+                "file": "Real Life Wandering Inn Experience.md"
               }
             }
           }
@@ -256,17 +172,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "7c0af35f06a5536f",
+  "active": "c22480bdad248c39",
   "lastOpenFiles": [
-    "Locations/Izril.md",
+    "Characters/Relc.md",
+    "Characters/Lyonette.md",
+    "Drake.md",
+    "Real Life Wandering Inn Experience.md",
+    "Races/Drakes.md",
     "Races/Antinium.md",
-    "Races/Worker Antinium.md",
     "Locations/The Wandering Inn.md",
-    "Characters/Toren.md",
-    "Locations/Garden of Sanctuary.md",
-    "Real Life Wandering Inn Expeience.md",
-    "Project overview.md",
-    "Characters/Mrsha.md",
-    "Characters/Bird.md"
+    "Locations/Liscor.md",
+    "Locations/Izril.md",
+    "Locations/Innworld.md"
   ]
 }

@@ -16,3 +16,8 @@ An experience for ca 10 visitors and 10 actors who portray [[The Wandering Inn]]
 * [[Antinium]]
 * [[Goblins]]
 
+*Locations*
+* [[The Wandering Inn]]
+* [[Liscor]]
+* [[Izril]]
+

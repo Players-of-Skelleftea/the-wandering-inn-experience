@@ -1,3 +1,4 @@
+#character
 ![[Bird_image.png]]
 Bird is an Individual [[Worker Antinium]] who was formerly a part of [[Liscor]]'s [[Antinium Hive]]. He currently resides in [[The Wandering Inn]] as security.
 

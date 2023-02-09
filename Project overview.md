@@ -1,4 +1,4 @@
-[[Real Life Wandering Inn Expeience]]
+[[Real Life Wandering Inn Experience]]
 [[VR Wandering Inn Experience]]
 
 

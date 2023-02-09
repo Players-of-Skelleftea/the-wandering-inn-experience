@@ -1,3 +1,4 @@
+#location
 ![[The_Wandering_Inn_by_Asanee.PNG.webp | 700]]
 ![[Wandering_Inn_Rooms.webp]]
 
