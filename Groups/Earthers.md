@@ -1,0 +1,1 @@
+People originally from [[Earth]]. Not born on [[Innworld]].

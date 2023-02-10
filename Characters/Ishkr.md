@@ -1,0 +1,2 @@
+![[Ishkr_with_suit_cut_out_by_Butts.webp]]
+A hard worker, Ishkr is the most dependable worker in [[The Wandering Inn]]. He is able to take most things in stride, which has allowed him to weather all of the inn-level events. He has a calm nature and doesn't allow himself to get sucked in to the chaos that frequently happens.

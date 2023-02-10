@@ -1,6 +1,6 @@
 #character
 ![[RelcPic.webp]]
-Race: [[Drakes]]
+Race: [[Drake]]
 
 Relc Grasstongue, also known as the Gecko of Liscor, is a Drake and a Senior Guardsman of [[Liscor]].
 

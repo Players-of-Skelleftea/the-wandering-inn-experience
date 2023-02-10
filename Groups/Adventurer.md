@@ -1,0 +1,1 @@
+Adventurers are people who earns their wage by completing 'quests' or bounties. Generally, these tasks are listed in an Adventurers Guild.

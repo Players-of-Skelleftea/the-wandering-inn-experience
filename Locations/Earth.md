@@ -1,0 +1,1 @@
+Earth is just the normal world where we live for real. Different from [[Innworld]].

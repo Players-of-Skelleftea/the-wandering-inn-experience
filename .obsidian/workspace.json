@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e26c0e06c1a429d1",
+        "id": "3175bed74e685c76",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc189972ed228fd",
+            "id": "45238fca7f6c0b04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Toren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02fff71e1c50e781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life Wandering Inn Experience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23ac63d70c9883d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life Wandering Inn Experience.md",
-                "mode": "source",
+                "file": "Experience Scripts/IRL Dinner Manuscript.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Life Wandering Inn Experience.md",
+                "file": "Experience Scripts/IRL Dinner Manuscript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Life Wandering Inn Experience.md",
+                "file": "Experience Scripts/IRL Dinner Manuscript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Life Wandering Inn Experience.md"
+                "file": "Experience Scripts/IRL Dinner Manuscript.md"
               }
             }
           }
@@ -169,20 +144,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes": false
+      "publish:Publish changes": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c22480bdad248c39",
+  "active": "45238fca7f6c0b04",
   "lastOpenFiles": [
-    "Characters/Relc.md",
-    "Characters/Lyonette.md",
-    "Drake.md",
-    "Real Life Wandering Inn Experience.md",
-    "Races/Drakes.md",
-    "Races/Antinium.md",
-    "Locations/The Wandering Inn.md",
-    "Locations/Liscor.md",
-    "Locations/Izril.md",
-    "Locations/Innworld.md"
+    "Races/Worker Antinium.md",
+    "Experience Scripts/IRL Dinner Manuscript.md",
+    "Characters/Erin.md",
+    "Other/The Wandering Inn Webnovel.md",
+    "Groups/Earthers.md",
+    "Races/Drake.md",
+    "Races/Goblin.md",
+    "Other/Real Life Wandering Inn Experience.md",
+    "Project overview.md",
+    "Media/AntiniumVoice.wav"
   ]
 }
